@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaa1f792-20bb-4565-aaa1-6c068f3e5b7c" name="Changes" comment="">
+    <list default="true" id="eaa1f792-20bb-4565-aaa1-6c068f3e5b7c" name="Changes" comment="docs: Updated README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI/ConversorDeMedidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConversorDeMedidas/ConversorDeMedidas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConversorDeMedidas.executor": "Run",
     "Application.GUIsPrincipais.executor": "Run",
     "Application.ProgramaPrincipal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -75,7 +76,20 @@
       <recent name="$PROJECT_DIR$/src/Conversores" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ConversorDeMedidas">
+    <configuration name="ConversorDeMedidas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversorDeMedidas.ConversorDeMedidas" />
+      <module name="ConversorFielAoPedido" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConversorDeMedidas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GUIsPrincipais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GUI.GUIsPrincipais" />
       <module name="ConversorFielAoPedido" />
@@ -91,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConversorDeMedidas" />
         <item itemvalue="Application.GUIsPrincipais" />
       </list>
     </recent_temporary>
@@ -110,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702697978955</updated>
-      <workItem from="1702697979984" duration="14081000" />
+      <workItem from="1702697979984" duration="16157000" />
     </task>
     <task id="LOCAL-00001" summary="build: Added envionment files">
       <option name="closed" value="true" />
@@ -152,7 +167,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702771232202</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="refactor: Updated name and location of the project's main fila">
+      <option name="closed" value="true" />
+      <created>1702780187388</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702780187388</updated>
+    </task>
+    <task id="LOCAL-00007" summary="docs: Updated README.md">
+      <option name="closed" value="true" />
+      <created>1702780212388</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702780212388</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +195,8 @@
     <MESSAGE value="feat: Created the classes extended from the class Conversor" />
     <MESSAGE value="feat: Created all kinds of dialogs to use with the conversion classes" />
     <MESSAGE value="feat: Merged all dialogs and classes to create the final product, the whole project" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Merged all dialogs and classes to create the final product, the whole project" />
+    <MESSAGE value="refactor: Updated name and location of the project's main fila" />
+    <MESSAGE value="docs: Updated README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: Updated README.md" />
   </component>
 </project>

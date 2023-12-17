@@ -49,27 +49,9 @@ A aplicação foi desenvolvida em Java, usando a biblioteca gráfica Java Swing 
 
 Este projeto faz parte do desafio back-end do programa ONE em Java e Javax.swing. O objetivo é demonstrar habilidades na implementação de lógica de conversão entre diferentes unidades de medida, além de mostrar proficiência no desenvolvimento de interfaces gráficas utilizando Java Swing.
 
-## Como Executar
+## Localização do Arquivo Executável
 
-Para executar a aplicação, certifique-se de ter o ambiente Java instalado em sua máquina. Em seguida, siga os passos abaixo:
-
-1. Clone o repositório para o seu ambiente local:
-
-   ```bash
-   git clone https://github.com/j0aoarthur/Conversor-de-Medidas-ONE.git
-
-2. Navegue até o diretório do projeto:
-
-   ```bash
-   cd src
-   ```
-
-3. Compile e execute o programa:
-
-   ```bash
-   javac ConversorDeMedidas.java
-   java ConversorDeMedidas
-   ``` 
+O arquivo para execução está localizado no pacote `ConversorDeMedidas` e tem o nome `ConversorDeMedidas.java`. Execute este arquivo para iniciar o programa.
 
 ## Sobre o Autor
 
