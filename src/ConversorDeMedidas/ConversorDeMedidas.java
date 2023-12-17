@@ -1,4 +1,4 @@
-package GUI;
+package ConversorDeMedidas;
 
 import static GUI.GUIsPrincipais.*;
 

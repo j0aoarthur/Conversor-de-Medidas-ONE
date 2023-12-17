@@ -1,0 +1,118 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"eaa1f792-20bb-4565-aaa1-6c068f3e5b7c\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/ConversorFielAoPedido.iml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <excluded-from-favorite>\n      <branch-storage>\n        <map>\n          <entry type=\"LOCAL\">\n            <value>\n              <list>\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"master\" />\n              </list>\n            </value>\n          </entry>\n        </map>\n      </branch-storage>\n    </excluded-from-favorite>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\n  </component>\n  <component name=\"ProjectColorInfo\"><![CDATA[{\n  \"associatedIndex\": 4\n}]]></component>\n  <component name=\"ProjectId\" id=\"2Zbk3yY3RcOfwQoh85YQNpsYEey\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.ProgramaPrincipal.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"last_opened_file_path\": \"/Users/joaoarthur/Downloads/Estudos/ConversorFielAoPedido/src/Conversores\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/Conversores\" />\n    </key>\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"ProgramaPrincipal\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"GUI.ProgramaPrincipal\" />\n      <module name=\"ConversorFielAoPedido\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"GUI.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.ProgramaPrincipal\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"jdk-21.0.1-openjdk-21.0.1-3183f394aec4-abbd5a8d\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"eaa1f792-20bb-4565-aaa1-6c068f3e5b7c\" name=\"Changes\" comment=\"\" />\n      <created>1702697978955</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1702697978955</updated>\n      <workItem from=\"1702697979984\" duration=\"11569000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision cd474934c5394c1347b8835d7c6bba314163a220)
++++ b/.idea/workspace.xml	(date 1702771277061)
+@@ -4,14 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="eaa1f792-20bb-4565-aaa1-6c068f3e5b7c" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/ConversorFielAoPedido.iml" afterDir="false" />
+-    </list>
++    <list default="true" id="eaa1f792-20bb-4565-aaa1-6c068f3e5b7c" name="Changes" comment="feat: Merged all dialogs and classes to create the final product, the whole project" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -59,7 +52,7 @@
+     "Application.ProgramaPrincipal.executor": "Run",
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master",
++    "git-widget-placeholder": "main",
+     "kotlin-language-version-configured": "true",
+     "last_opened_file_path": "/Users/joaoarthur/Downloads/Estudos/ConversorFielAoPedido/src/Conversores",
+     "node.js.detected.package.eslint": "true",
+@@ -76,8 +69,8 @@
+     </key>
+   </component>
+   <component name="RunManager">
+-    <configuration name="ProgramaPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="GUI.ProgramaPrincipal" />
++    <configuration name="GUIsPrincipais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="GUI.GUIsPrincipais" />
+       <module name="ConversorFielAoPedido" />
+       <extension name="coverage">
+         <pattern>
+@@ -91,7 +84,7 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Application.ProgramaPrincipal" />
++        <item itemvalue="Application.GUIsPrincipais" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -110,11 +103,60 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1702697978955</updated>
+-      <workItem from="1702697979984" duration="11569000" />
++      <workItem from="1702697979984" duration="12378000" />
++    </task>
++    <task id="LOCAL-00001" summary="build: Added envionment files">
++      <option name="closed" value="true" />
++      <created>1702771044704</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1702771044704</updated>
++    </task>
++    <task id="LOCAL-00002" summary="feat: Created the super class to all conversion classes">
++      <option name="closed" value="true" />
++      <created>1702771092348</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1702771092348</updated>
+     </task>
++    <task id="LOCAL-00003" summary="feat: Created the classes extended from the class Conversor">
++      <option name="closed" value="true" />
++      <created>1702771148683</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1702771148683</updated>
++    </task>
++    <task id="LOCAL-00004" summary="feat: Created all kinds of dialogs to use with the conversion classes">
++      <option name="closed" value="true" />
++      <created>1702771193763</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1702771193763</updated>
++    </task>
++    <task id="LOCAL-00005" summary="feat: Merged all dialogs and classes to create the final product, the whole project">
++      <option name="closed" value="true" />
++      <created>1702771232202</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1702771232202</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="build: Added envionment files" />
++    <MESSAGE value="feat: Created the super class to all conversion classes" />
++    <MESSAGE value="feat: Created the classes extended from the class Conversor" />
++    <MESSAGE value="feat: Created all kinds of dialogs to use with the conversion classes" />
++    <MESSAGE value="feat: Merged all dialogs and classes to create the final product, the whole project" />
++    <option name="LAST_COMMIT_MESSAGE" value="feat: Merged all dialogs and classes to create the final product, the whole project" />
++  </component>
+ </project>
+\ No newline at end of file

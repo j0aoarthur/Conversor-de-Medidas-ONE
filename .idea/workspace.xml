@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaa1f792-20bb-4565-aaa1-6c068f3e5b7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConversorFielAoPedido.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI/ConversorDeMedidas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConversorDeMedidas/ConversorDeMedidas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +36,15 @@
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2Zbk3yY3RcOfwQoh85YQNpsYEey" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -56,10 +55,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GUIsPrincipais.executor": "Run",
     "Application.ProgramaPrincipal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/joaoarthur/Downloads/Estudos/ConversorFielAoPedido/src/Conversores",
     "node.js.detected.package.eslint": "true",
@@ -76,12 +76,12 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="ProgramaPrincipal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GUI.ProgramaPrincipal" />
+    <configuration name="GUIsPrincipais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI.GUIsPrincipais" />
       <module name="ConversorFielAoPedido" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GUI.*" />
+          <option name="PATTERN" value="ConversorDeMedidas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,7 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProgramaPrincipal" />
+        <item itemvalue="Application.GUIsPrincipais" />
       </list>
     </recent_temporary>
   </component>
@@ -110,11 +110,60 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702697978955</updated>
-      <workItem from="1702697979984" duration="11569000" />
+      <workItem from="1702697979984" duration="14081000" />
     </task>
+    <task id="LOCAL-00001" summary="build: Added envionment files">
+      <option name="closed" value="true" />
+      <created>1702771044704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702771044704</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: Created the super class to all conversion classes">
+      <option name="closed" value="true" />
+      <created>1702771092348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702771092348</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: Created the classes extended from the class Conversor">
+      <option name="closed" value="true" />
+      <created>1702771148683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702771148683</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: Created all kinds of dialogs to use with the conversion classes">
+      <option name="closed" value="true" />
+      <created>1702771193763</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702771193763</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: Merged all dialogs and classes to create the final product, the whole project">
+      <option name="closed" value="true" />
+      <created>1702771232202</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702771232202</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="build: Added envionment files" />
+    <MESSAGE value="feat: Created the super class to all conversion classes" />
+    <MESSAGE value="feat: Created the classes extended from the class Conversor" />
+    <MESSAGE value="feat: Created all kinds of dialogs to use with the conversion classes" />
+    <MESSAGE value="feat: Merged all dialogs and classes to create the final product, the whole project" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Merged all dialogs and classes to create the final product, the whole project" />
   </component>
 </project>
