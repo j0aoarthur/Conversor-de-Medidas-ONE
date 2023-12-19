@@ -72,3 +72,8 @@ Para executar o programa, você pode baixar o arquivo JAR [aqui](https://drive.g
 Eu sou João Arthur Britto, o desenvolvedor por trás do Conversor de Medidas - ONE. Com uma paixão por programação, criei esta aplicação como forma de aprendizado da linguagem Java e conclusão de uma das etapas da formação de Back-end com Java proposta pelo programa ONE - Oracle Next Education.
 
 Se você tiver alguma dúvida, sugestão ou comentário, sinta-se à vontade para entrar em contato comigo. Você pode me encontrar em <b>joaoabritto.dev@gmail.com</b>, ou visitar meu perfil no [GitHub](https://github.com/j0aoarthur) e [LinkedIn](https://www.linkedin.com/in/joao-arthur-britto).
+
+## Badge recebida pela conclusão do projeto
+
+![cms-files-10224-1671211937Prancheta_8-2](https://github.com/j0aoarthur/Conversor-de-Medidas-ONE/assets/121466923/a01bb103-ac89-4ab2-b82c-ab302b674005)
+
