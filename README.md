@@ -49,9 +49,23 @@ A aplicação foi desenvolvida em Java, usando a biblioteca gráfica Java Swing 
 
 Este projeto faz parte do desafio back-end do programa ONE em Java e Javax.swing. O objetivo é demonstrar habilidades na implementação de lógica de conversão entre diferentes unidades de medida, além de mostrar proficiência no desenvolvimento de interfaces gráficas utilizando Java Swing.
 
-## Localização do Arquivo Executável
+## Executando o Programa
 
-O arquivo para execução está localizado no pacote `ConversorDeMedidas` e tem o nome `ConversorDeMedidas.java`. Execute este arquivo para iniciar o programa.
+Para executar o programa, você pode baixar o arquivo JAR [aqui](https://drive.google.com/uc?export=download&id=19fHFQVJ6vu6lg1zpBgJziPjAdBzxMnA3). Certifique-se de ter o Java JDK (Development Kit) ou JRE (Runtime Environment) instalado em sua máquina.
+
+### Instruções Simples:
+
+1. **Certifique-se de Ter o Java Instalado:**
+   - Antes de prosseguir, certifique-se de ter o Java JDK ou JRE instalado em sua máquina. Você pode baixar o Java [aqui](https://www.oracle.com/java/technologies/javase-downloads.html).
+
+2. **Baixe o Arquivo JAR:**
+   - [ConversorDeMedidas_ONE.jar](https://drive.google.com/uc?export=download&id=19fHFQVJ6vu6lg1zpBgJziPjAdBzxMnA3)
+
+3. **Execute o Programa:**
+   - Clique duas vezes no arquivo JAR baixado para iniciar o Conversor de Medidas - ONE.
+
+ 
+###### Certifique-se de que seu sistema está configurado para executar arquivos JAR usando o Java.
 
 ## Sobre o Autor
 
